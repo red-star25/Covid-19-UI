@@ -1,4 +1,6 @@
-# covid
+# A Covid-19 App Made With Flutter 
+
+Mainly Focus on UI
 
 A new Flutter project.
 
